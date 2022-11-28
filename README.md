@@ -1,7 +1,7 @@
 # nestjs-firebase
 
 ![Actions Status](https://github.com/g59/nestjs-plugins/workflows/Node%20CI/badge.svg)
-[![npm version](https://badge.fury.io/js/nestjs-firebase.svg)](https://badge.fury.io/js/nestjs-firebase)
+[![npm version](https://badge.fury.io/js/@rsmnarts%2Fnestjs-firebase.svg)](https://badge.fury.io/js/@rsmnarts%2Fnestjs-firebase)
 
 ## Install
 

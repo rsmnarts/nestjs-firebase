@@ -1,9 +1,9 @@
 {
-  "name": "nestjs-firebase",
+  "name": "@rsmnarts/nestjs-firebase",
   "version": "9.0.0",
   "description": "@nestjs with firebase",
   "license": "MIT",
-  "homepage": "https://github.com/g59/nestjs-plugins/tree/main/packages/nestjs-firebase",
+  "homepage": "https://github.com/rsmnarts/nestjs-firebase",
   "main": "lib/index.js",
   "scripts": {
     "build": "npm run clean && tsc -p .",
