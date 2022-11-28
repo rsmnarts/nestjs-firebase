@@ -1,0 +1,26 @@
+{
+  "name": "nestjs-firebase",
+  "version": "9.0.0",
+  "description": "@nestjs with firebase",
+  "license": "MIT",
+  "homepage": "https://github.com/g59/nestjs-plugins/tree/main/packages/nestjs-firebase",
+  "main": "lib/index.js",
+  "scripts": {
+    "build": "npm run clean && tsc -p .",
+    "clean": "rimraf lib",
+    "lint": "tsc -p . --noEmit"
+  },
+  "keywords": [
+    "nest",
+    "firebase"
+  ],
+  "peerDependencies": {
+    "@nestjs/common": "^9.0.0",
+    "firebase-admin": "^8.0.0 || ^9.0.0 || ^10.0.0"
+  },
+  "devDependencies": {
+    "@google-cloud/firestore": "6.4.1",
+    "@google-cloud/storage": "6.7.0"
+  },
+  "types": "lib/index.d.ts"
+}
